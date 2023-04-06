@@ -1,7 +1,7 @@
 {
 	"type": "package",
-	"handle": "story-award-predictor",
-	"version": "1.0.0",
+	"handle": "story-tagger",
+	"version": "1.0.9",
 	"description": "",
 	"author": "",
 	"entrypoint": "api.handler",
@@ -29,8 +29,7 @@
 		"authorTwitter": null,
 		"authorUrl": null,
 		"tags": [
-			"Prompt API",
-			"Image Generator"
+			"Prompt API"
 		]
 	}
 }
